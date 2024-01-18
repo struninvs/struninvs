@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Hi%2C+I%E2%80%99m+%40struninvs;And+I+practice+in+the+field+of+data+science" alt="Typing SVG" /></a>
 
-- 👀 I’m interested in Data Science
-- 🌱 I graduated from course "Data Science Plus" at Yandex.Practicum in August 2023 (https://practicum.yandex.ru)
-- 💞️ Now I working in <a href="https://samokat.tech/">Samokat.tech</a>
+- 👀 I’m interested in Data Science;
+- 🌱 I graduated from course "Data Science Plus" at <a href="https://practicum.yandex.ru">Yandex.Practicum</a> in August 2023;
+- 💞️ Now I working in <a href="https://samokat.tech/">Samokat.tech</a>.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=struninvs&label=Profile%20views&color=0e75b6&style=flat" alt="struninvs" /> </p>
 <!---
 struninvs/struninvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
