@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data Science
 - 🌱 I graduated from course "Data Science Plus" at Yandex.Practicum in August 2023 (https://practicum.yandex.ru)
-- 💞️ I’m looking to collaborate on pet-projects and also I'm ready for internships
+- 💞️ Now I working in <a href="https://samokat.tech/">Samokat.tech</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=struninvs&label=Profile%20views&color=0e75b6&style=flat" alt="struninvs" /> </p>
 <!---
 struninvs/struninvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
