@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=470&lines=Hi%2C+I'm+%40struninvs;Now+I+working+in+the+field+of+GenAIOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AC608&width=470&lines=Hi%2C+I'm+%40struninvs;Now+I+working+in+the+field+of+GenAIOps" alt="Typing SVG" /></a>
 
 - 👀 I’m interested in GenAIOps;
 - 💞️ Now I working in <a href="https://https://latech.ru/">Lamoda.tech</a>.
